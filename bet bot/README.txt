@@ -1,1 +1,1 @@
-This project was developed for a customer engaged in sports betting. The bot parsed the bookmaker's website, parsed the matches, selected the appropriate ones and signaled about it. The bot was added to the channel and is working successfully.
+This project was developed for a customer engaged in sports betting. The bot parsed the bookmaker's website, parsed the matches, selected the appropriate ones and signaled about it. The bot was installed on Beget, added to the channel and works successfully.
