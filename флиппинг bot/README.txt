@@ -1,0 +1,1 @@
+The bot was created by order of a person engaged in the sale of real estate. The bot parsed CIAN, selected suitable options according to the filter, looked for competitive options, and signaled about a profitable option. The bot was installed on the server and functioned successfully.
